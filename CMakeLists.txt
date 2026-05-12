@@ -7,7 +7,7 @@ project(${PROJECT_NAME} C CXX)
 # --- ビルドモードの切り替え ---
 # "EXEC", "SHARED", "STATIC"
 set(BUILD_TYPE_MODE "EXEC") 
-set(CREATE_PRODUCT "mcp_engine")
+set(CREATE_PRODUCT "mcp_cst_core")
 
 # --- 言語規格の設定 ---
 set(CMAKE_CXX_STANDARD 20)
