@@ -129,7 +129,7 @@ Since `mcp-cst-core` is a pure, ultra-minimal STDIO LocalMCP server, you can int
 ## 🚀 Real-world Proof / 性能の実証
 
 ### Verified Performance (LLVM Project)
-*   **Target Codebase Size:** **5.8 GB** (Pure source repository complexity)
+*   **Target Codebase Size:** **5.8 GB** (Full llvm-project repository structure)
 *   **LLVM Full Indexing Speed:** **57,444 ms** (Under 1 minute!)
 *   **Peak Memory Usage:** **901 MB** RAM (RES)
 
