@@ -137,8 +137,10 @@ Since `mcp-cst-core` is a pure, ultra-minimal STDIO LocalMCP server, you can int
 *Left: 10 physical threads devouring LLVM files concurrently down to 57 seconds. Right: Hyper-optimized memory layout keeping RSS at 901MB while virtual space handles the brutal execution heat.*  
 *左：10スレッドの暴力でLLVMが57秒で完全パースされる瞬間。右：物理メモリを901MBに抑え込みつつ、裏で仮想メモリが総力戦を繰り広げているトップログ。*
 
-### 🎬 Demo Video / デモ動画
-See how 10 physical threads devour the LLVM source in real-time. Watch `running.mp4` or see `result.png` inside the repository.
+### 🎬 Proof Evidence Screenshot / 証拠の検証実測スクショ
+![mcp-cst-core execution benchmark](result.png)
+*Left: 10 physical threads devouring LLVM files concurrently down to 57 seconds. Right: Hyper-optimized memory layout keeping RSS at 901MB while virtual space handles the brutal execution heat.*  
+*左：10スレッドの暴力でLLVMが57秒で完全パースされる瞬間。右：物理メモリを901MBに抑え込みつつ、裏で仮想メモリが総力戦を繰り広げているトップログ。*
 
 ---
 
