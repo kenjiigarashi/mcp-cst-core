@@ -179,7 +179,7 @@ Customize extraction targets per language via S-expression.
 
 *Thank you for checking out this project! I would love to connect with fellow developers. Please feel free to add me on LinkedIn for tech discussions, networking, or collaboration!*
 
-[![LinkedIn]](https://www.linkedin.com/in/kenjiigarashi/)
+[LinkedIn](https://www.linkedin.com/in/kenjiigarashi/)
 
 ---
 
