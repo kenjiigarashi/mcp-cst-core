@@ -176,7 +176,9 @@ Customize extraction targets per language via S-expression.
 
 ## 🤝 Contact & Networking / 繋がり
 *このプロジェクトに興味を持っていただきありがとうございます！技術的な質問や、エンジニア同士の交流、共同開発のお誘いなど、LinkedInでの繋がりを大歓迎しています。*
+
 *Thank you for checking out this project! I would love to connect with fellow developers. Please feel free to add me on LinkedIn for tech discussions, networking, or collaboration!*
+
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/kenjiigarashi/)
 
 ---
