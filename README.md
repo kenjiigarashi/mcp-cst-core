@@ -179,7 +179,7 @@ Customize extraction targets per language via S-expression.
 
 *Thank you for checking out this project! I would love to connect with fellow developers. Please feel free to add me on LinkedIn for tech discussions, networking, or collaboration!*
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/kenjiigarashi/)
+[![LinkedIn]([bx](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white))](https://www.linkedin.com/in/kenjiigarashi/)
 
 ---
 
